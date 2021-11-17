@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @CupOfJoeCode
-- 👀 I’m interested in software and music
-- 🌱 I’m currently learning Java, and OpenGL in C
-
+My name is Joe Janicki I code stuff here it is
